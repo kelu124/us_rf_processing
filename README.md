@@ -64,6 +64,14 @@ Here are stored ultrasound rf signals, mostly in npz to facilitate loading infor
 
 ![](images/probeX.jpg)
 
+## brd35_66lpi
+
+#### Image from a wirephantom using a bard 3.5 probe with un0rick. 66 lines/image.
+
+[Link to data](data/brd35_66lpi.npusz.npz)
+
+![](images/brd35_66lpi.jpg)
+
 ## atl3_31c
 
 #### Image from a wirephantom using an ATL3 probe with un0rick.
@@ -74,7 +82,7 @@ Here are stored ultrasound rf signals, mostly in npz to facilitate loading infor
 
 ## brd35
 
-#### Image from a wirephantom using a bard 3.5 probe with un0rick.
+#### Image from a wirephantom using a bard 3.5 probe with un0rick. 160 lines/image.
 
 [Link to data](data/brd35.npusz.npz)
 
