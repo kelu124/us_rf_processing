@@ -34,7 +34,7 @@
 Here are stored ultrasound rf signals, mostly in npz to facilitate loading information. Accompanying images may contain metadata about the data acquisition.
 ## hp2121
 
-#### Image from a wirephantom bis using an hp2121 probe with un0rick.
+#### Image from a wirephantom bis using an hp2121 probe with un0rick.. Probe: hp2121. Fsampling: 21MHz.
 
 [Link to data](data/hp2121.npusz.npz)
 
@@ -42,7 +42,7 @@ Here are stored ultrasound rf signals, mostly in npz to facilitate loading infor
 
 ## kretzaw145ba
 
-#### Image from a wirephan bis using an kretzaw145ba probe with un0rick.
+#### Image from a wirephan bis using an kretzaw145ba probe with un0rick.. Probe: kretzaw145ba. Fsampling: 21MHz.
 
 [Link to data](data/kretzaw145ba.npusz.npz)
 
@@ -50,7 +50,7 @@ Here are stored ultrasound rf signals, mostly in npz to facilitate loading infor
 
 ## ndt
 
-#### Image steel calibration blocks (10-20mm) using a dual element transducer.
+#### Image steel calibration blocks (10-20mm) using a dual element transducer.. Probe: dual5MHzNDT. Fsampling: 64MHz.
 
 [Link to data](data/ndt.npusz.npz)
 
@@ -58,7 +58,7 @@ Here are stored ultrasound rf signals, mostly in npz to facilitate loading infor
 
 ## probeX
 
-#### Image from a wirephantom using a ATL3 probe with older modules.
+#### Image from a wirephantom using a ATL3 probe with older modules.. Probe: retroATL3. Fsampling: 10MHz.
 
 [Link to data](data/probeX.npusz.npz)
 
@@ -66,7 +66,7 @@ Here are stored ultrasound rf signals, mostly in npz to facilitate loading infor
 
 ## brd35_66lpi
 
-#### Image from a wirephantom using a bard 3.5 probe with un0rick. 66 lines/image.
+#### Image from a wirephantom using a bard 3.5 probe with un0rick. 66 lines/image.. Probe: brd35. Fsampling: 16MHz.
 
 [Link to data](data/brd35_66lpi.npusz.npz)
 
@@ -74,7 +74,7 @@ Here are stored ultrasound rf signals, mostly in npz to facilitate loading infor
 
 ## atl3_31c
 
-#### Image from a wirephantom using an ATL3 probe with un0rick.
+#### Image from a wirephantom using an ATL3 probe with un0rick.. Probe: retroATL3. Fsampling: 32MHz.
 
 [Link to data](data/atl3_31c.npusz.npz)
 
@@ -82,7 +82,7 @@ Here are stored ultrasound rf signals, mostly in npz to facilitate loading infor
 
 ## brd35
 
-#### Image from a wirephantom using a bard 3.5 probe with un0rick. 160 lines/image.
+#### Image from a wirephantom using a bard 3.5 probe with un0rick. 160 lines/image.. Probe: brd35. Fsampling: 12MHz.
 
 [Link to data](data/brd35.npusz.npz)
 
